@@ -1,16 +1,16 @@
 # Sistema de Reservas de Espacios Universitarios — I.U. Pascual Bravo
 
 ## Propósito
-Aplicación web diseñada para gestionar de forma eficiente la reserva de espacios universitarios (salas, auditorios, canchas). Este repositorio mantiene una **documentación viva**[cite: 51], evolucionando junto con el código fuente y garantizando la trazabilidad desde las necesidades del usuario hasta la implementación técnica[cite: 58].
+Aplicación web diseñada para gestionar de forma eficiente la reserva de espacios universitarios (salas, auditorios, canchas). Este repositorio mantiene una **documentación viva**, evolucionando junto con el código fuente y garantizando la trazabilidad desde las necesidades del usuario hasta la implementación técnica.
 
 ## Equipo de Trabajo
-* Santiago Garcés Pérez
-* Carlos Andrés Laverde Parra 
-* Andrés González González 
-* Maria Susana Benitez Espinosa 
+- Santiago Garcés Pérez
+- Carlos Andrés Laverde Parra
+- Andrés González González
+- Maria Susana Benitez Espinosa
 
 ## Estructura del Repositorio
-Basado en buenas prácticas de documentación ágil[cite: 52]:
+Basado en buenas prácticas de documentación ágil:
 - `/docs`: Documentación técnica, funcional y arquitectónica.
 - `/src`: Código fuente (Frontend en React, Backend en Spring/Java).
 - `/tests`: Preparación para integración continua y pruebas automatizadas (CP).

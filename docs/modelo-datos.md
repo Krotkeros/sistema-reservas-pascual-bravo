@@ -1,8 +1,8 @@
-# Modelo de Datos[cite: 63]
+# Modelo de Datos
 
-Estructura de documentos en **MongoDB**. Se priorizó la referenciación (ObjectId) sobre la incrustación masiva para mantener las colecciones normalizadas y facilitar reportes[cite: 63].
+Estructura de documentos en **MongoDB**. Se priorizó la referenciación (ObjectId) sobre la incrustación masiva para mantener las colecciones normalizadas y facilitar reportes.
 
-### Colección: `users`[cite: 63]
+### Colección: `users`
 
 ```json
 
@@ -20,9 +20,9 @@ Estructura de documentos en **MongoDB**. Se priorizó la referenciación (Object
 
 }
 
-```[cite: 63]
+```
 
-### Colección: `espacios`[cite: 63]
+### Colección: `espacios`
 
 ```json
 
@@ -44,9 +44,9 @@ Estructura de documentos en **MongoDB**. Se priorizó la referenciación (Object
 
 }
 
-```[cite: 63]
+```
 
-### Colección: `reservas`[cite: 63]
+### Colección: `reservas`
 
 ```json
 
@@ -66,4 +66,4 @@ Estructura de documentos en **MongoDB**. Se priorizó la referenciación (Object
 
 }
 
-```[cite: 63]
+```
