@@ -46,16 +46,3 @@ jobs:
       - name: Construir proyecto React (Build)
         working-directory: ./src/frontend
         run: npm run build
-```[cite: 67]
-
----
-
-### Archivo en `tests/`
-
-#### 📁 `tests/README.md`
-*(Ubicación: `/tests/README.md`)*[cite: 3, 68]
-
-```markdown
-# Pruebas del Sistema
-
-Carpeta reservada para la futura implementación de pruebas automatizadas y casos de prueba del proyecto[cite: 3].
